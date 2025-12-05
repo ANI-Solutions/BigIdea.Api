@@ -1,0 +1,12 @@
+# Visual Studio cache
+.vs/
+
+# Build output
+bin/
+obj/
+
+# User-specific files (optional but nice)
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
